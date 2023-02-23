@@ -1,1 +1,1 @@
-my first c program
+debugging the code
