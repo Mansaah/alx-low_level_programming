@@ -1,4 +1,4 @@
-#include "mainn.h"
+#include "main.h"
 /**
  * _strcat - concatenates @src to @dest
  * @src: the source string to append to @dest
