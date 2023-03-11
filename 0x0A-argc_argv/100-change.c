@@ -47,6 +47,7 @@ int coinConverter(int i)
 int main(int argc, char *argv[])
 {
 	int i, coin;
+
 	coin = 0;
 
 	if (argc != 2)
@@ -56,7 +57,7 @@ int main(int argc, char *argv[])
 	}
 
 	i = atoi(argv[1]);
-	
+
 	if (i < 0)
 		printf("0\n");
 
