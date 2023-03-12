@@ -1,1 +1,1 @@
-ar rcs libmy.a objfile1.o objfile2.o objfile3.o
+ar rcs libmy.a
