@@ -8,7 +8,7 @@
  */
 list_t *add_node(list_t **head, const char *str)
 {
-	list_t *nn;/*nn = new node*/	
+	list_t *nn;/*nn = new node*/
 	size_t nchar;/*nchar = new character*/
 
 
